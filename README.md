@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **t-flim/t-flim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display:flex; flex-direction: column;">
+    <img src="https://giphy.com/gifs/starwars-movie-star-wars-3owzWkGtQ3us1pV0qc" alt="welcome message">
+</div>
