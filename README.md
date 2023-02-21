@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:flex; flex-direction: column;">
-    <img src="https://giphy.com/gifs/starwars-movie-star-wars-3owzWkGtQ3us1pV0qc" alt="welcome message">
+    <iframe src="https://giphy.com/embed/3owzWkGtQ3us1pV0qc" frameBorder="0"></iframe>
 </div>
