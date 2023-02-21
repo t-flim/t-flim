@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display:flex; flex-direction: column;">
-    <iframe src="https://giphy.com/embed/3owzWkGtQ3us1pV0qc" frameBorder="0"></iframe>
-</div>
+![Welcome message](https://giphy.com/embed/3owzWkGtQ3us1pV0qc)
