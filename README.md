@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Welcome message](https://media.tenor.com/TxytUmJe3TwAAAAC/anna-kendrick-yay.gif)
+![Welcome message](https://media4.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
