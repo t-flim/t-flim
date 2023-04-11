@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <!-- ![Welcome message](https://media4.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif) -->
 
-<img src="https://media4.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" style="width:100vw; height:300px; object-fit:cover;" />
+<img src="https://media4.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" style="width:100vw; height:200px; aspect-ratio:13/2;" />
