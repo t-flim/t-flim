@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 <!-- ![Welcome message](https://media4.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif) -->
 
-<div style="background-image:url(https://media.giphy.com/channel_assets/star-wars/L0TVPU6cLCIB/200h.gif); width:100vw; height:200px; aspect-ratio:13/2;"></div>
+<img src="https://media.giphy.com/channel_assets/star-wars/L0TVPU6cLCIB/200h.gif" style="width:100vw; height:200px; aspect-ratio:13/2;" />
