@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/channel_assets/star-wars/L0TVPU6cLCIB/200h.gif"/>
+![Welcome message](https://media.giphy.com/channel_assets/star-wars/L0TVPU6cLCIB/200h.gif)
